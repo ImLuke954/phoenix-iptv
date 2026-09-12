@@ -137,14 +137,16 @@ def scrape():
     
     print(f"Found {len(m3u_links)} M3U links.")
     
-    # Download the first 50 playlists plus all root-level index playlists.
-    # Root-level files are listed in the generated README and must be present
-    # in the published repository to avoid broken links.
-    root_links = [
+    # Download every playlist group that is advertised in the generated
+    # README. This keeps the published links from pointing to missing files.
+    supported_prefixes = ("categories/", "languages/", "regions/")
+    download_links = [
         link for link in m3u_links
-        if "/" not in link.replace(BASE_URL, "")
+        if (
+            "/" not in link.replace(BASE_URL, "")
+            or link.replace(BASE_URL, "").startswith(supported_prefixes)
+        )
     ]
-    download_links = list(dict.fromkeys(m3u_links[:50] + root_links))
 
     for link in download_links:
         relative_path = link.replace(BASE_URL, "")
