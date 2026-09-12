@@ -7,7 +7,7 @@ from urllib.parse import urljoin
 # Configuration
 SOURCE_PLAYLISTS_MD = "https://raw.githubusercontent.com/iptv-org/iptv/master/PLAYLISTS.md"
 BASE_URL = "https://iptv-org.github.io/iptv/"
-USER_REPO_URL = "https://jogindharr.github.io/iptv/"
+USER_REPO_URL = "https://imluke954.github.io/phoenix-iptv/"
 OUTPUT_DIR = "."
 
 def download_file(url, filename):
