@@ -14,7 +14,9 @@ def download_file(url, filename):
     try:
         response = requests.get(url, timeout=30)
         if response.status_code == 200:
-            os.makedirs(os.path.dirname(filename), exist_ok=True)
+            directory = os.path.dirname(filename)
+            if directory:
+                os.makedirs(directory, exist_ok=True)
             with open(filename, 'wb') as f:
                 f.write(response.content)
             return True
@@ -48,7 +50,7 @@ def generate_readme(m3u_links):
             readme_content += f"| {name} | [`{m3u_url}`]({m3u_url}) |\n"
         readme_content += "\n"
 
-    with open("README.md", "w") as f:
+    with open("README.md", "w", encoding="utf-8") as f:
         f.write(readme_content)
 
 def generate_index_html(m3u_links):
@@ -119,7 +121,7 @@ def generate_index_html(m3u_links):
 </body>
 </html>
     """
-    with open("index.html", "w") as f:
+    with open("index.html", "w", encoding="utf-8") as f:
         f.write(html_content)
 
 def scrape():
@@ -135,8 +137,16 @@ def scrape():
     
     print(f"Found {len(m3u_links)} M3U links.")
     
-    # Only download first 50 for initial push to save time
-    for link in m3u_links[:50]:
+    # Download the first 50 playlists plus all root-level index playlists.
+    # Root-level files are listed in the generated README and must be present
+    # in the published repository to avoid broken links.
+    root_links = [
+        link for link in m3u_links
+        if "/" not in link.replace(BASE_URL, "")
+    ]
+    download_links = list(dict.fromkeys(m3u_links[:50] + root_links))
+
+    for link in download_links:
         relative_path = link.replace(BASE_URL, "")
         local_path = os.path.join(OUTPUT_DIR, relative_path)
         print(f"Downloading {relative_path}...")
