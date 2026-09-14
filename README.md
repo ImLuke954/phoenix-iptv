@@ -121,6 +121,7 @@ Access your playlists here: [https://imluke954.github.io/phoenix-iptv/](https://
 | Her | [`https://imluke954.github.io/phoenix-iptv/languages/her.m3u`](https://imluke954.github.io/phoenix-iptv/languages/her.m3u) |
 | Hin | [`https://imluke954.github.io/phoenix-iptv/languages/hin.m3u`](https://imluke954.github.io/phoenix-iptv/languages/hin.m3u) |
 | Hmn | [`https://imluke954.github.io/phoenix-iptv/languages/hmn.m3u`](https://imluke954.github.io/phoenix-iptv/languages/hmn.m3u) |
+| Hmo | [`https://imluke954.github.io/phoenix-iptv/languages/hmo.m3u`](https://imluke954.github.io/phoenix-iptv/languages/hmo.m3u) |
 | Hne | [`https://imluke954.github.io/phoenix-iptv/languages/hne.m3u`](https://imluke954.github.io/phoenix-iptv/languages/hne.m3u) |
 | Hrv | [`https://imluke954.github.io/phoenix-iptv/languages/hrv.m3u`](https://imluke954.github.io/phoenix-iptv/languages/hrv.m3u) |
 | Hun | [`https://imluke954.github.io/phoenix-iptv/languages/hun.m3u`](https://imluke954.github.io/phoenix-iptv/languages/hun.m3u) |
@@ -231,6 +232,7 @@ Access your playlists here: [https://imluke954.github.io/phoenix-iptv/](https://
 | Tig | [`https://imluke954.github.io/phoenix-iptv/languages/tig.m3u`](https://imluke954.github.io/phoenix-iptv/languages/tig.m3u) |
 | Tir | [`https://imluke954.github.io/phoenix-iptv/languages/tir.m3u`](https://imluke954.github.io/phoenix-iptv/languages/tir.m3u) |
 | Tmh | [`https://imluke954.github.io/phoenix-iptv/languages/tmh.m3u`](https://imluke954.github.io/phoenix-iptv/languages/tmh.m3u) |
+| Tpi | [`https://imluke954.github.io/phoenix-iptv/languages/tpi.m3u`](https://imluke954.github.io/phoenix-iptv/languages/tpi.m3u) |
 | Tso | [`https://imluke954.github.io/phoenix-iptv/languages/tso.m3u`](https://imluke954.github.io/phoenix-iptv/languages/tso.m3u) |
 | Ttj | [`https://imluke954.github.io/phoenix-iptv/languages/ttj.m3u`](https://imluke954.github.io/phoenix-iptv/languages/ttj.m3u) |
 | Tuk | [`https://imluke954.github.io/phoenix-iptv/languages/tuk.m3u`](https://imluke954.github.io/phoenix-iptv/languages/tuk.m3u) |
