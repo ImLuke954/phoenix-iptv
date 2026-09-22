@@ -71,7 +71,6 @@ Access your playlists here: [https://imluke954.github.io/phoenix-iptv/](https://
 | Bbo | [`https://imluke954.github.io/phoenix-iptv/languages/bbo.m3u`](https://imluke954.github.io/phoenix-iptv/languages/bbo.m3u) |
 | Bel | [`https://imluke954.github.io/phoenix-iptv/languages/bel.m3u`](https://imluke954.github.io/phoenix-iptv/languages/bel.m3u) |
 | Ben | [`https://imluke954.github.io/phoenix-iptv/languages/ben.m3u`](https://imluke954.github.io/phoenix-iptv/languages/ben.m3u) |
-| Bgc | [`https://imluke954.github.io/phoenix-iptv/languages/bgc.m3u`](https://imluke954.github.io/phoenix-iptv/languages/bgc.m3u) |
 | Bho | [`https://imluke954.github.io/phoenix-iptv/languages/bho.m3u`](https://imluke954.github.io/phoenix-iptv/languages/bho.m3u) |
 | Bib | [`https://imluke954.github.io/phoenix-iptv/languages/bib.m3u`](https://imluke954.github.io/phoenix-iptv/languages/bib.m3u) |
 | Bod | [`https://imluke954.github.io/phoenix-iptv/languages/bod.m3u`](https://imluke954.github.io/phoenix-iptv/languages/bod.m3u) |
