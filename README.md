@@ -164,6 +164,7 @@ Access your playlists here: [https://imluke954.github.io/phoenix-iptv/](https://
 | Luo | [`https://imluke954.github.io/phoenix-iptv/languages/luo.m3u`](https://imluke954.github.io/phoenix-iptv/languages/luo.m3u) |
 | Lus | [`https://imluke954.github.io/phoenix-iptv/languages/lus.m3u`](https://imluke954.github.io/phoenix-iptv/languages/lus.m3u) |
 | Mai | [`https://imluke954.github.io/phoenix-iptv/languages/mai.m3u`](https://imluke954.github.io/phoenix-iptv/languages/mai.m3u) |
+| Mak | [`https://imluke954.github.io/phoenix-iptv/languages/mak.m3u`](https://imluke954.github.io/phoenix-iptv/languages/mak.m3u) |
 | Mal | [`https://imluke954.github.io/phoenix-iptv/languages/mal.m3u`](https://imluke954.github.io/phoenix-iptv/languages/mal.m3u) |
 | Man | [`https://imluke954.github.io/phoenix-iptv/languages/man.m3u`](https://imluke954.github.io/phoenix-iptv/languages/man.m3u) |
 | Mar | [`https://imluke954.github.io/phoenix-iptv/languages/mar.m3u`](https://imluke954.github.io/phoenix-iptv/languages/mar.m3u) |
