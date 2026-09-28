@@ -83,6 +83,7 @@ Access your playlists here: [https://imluke954.github.io/phoenix-iptv/](https://
 | Cgg | [`https://imluke954.github.io/phoenix-iptv/languages/cgg.m3u`](https://imluke954.github.io/phoenix-iptv/languages/cgg.m3u) |
 | Cmn | [`https://imluke954.github.io/phoenix-iptv/languages/cmn.m3u`](https://imluke954.github.io/phoenix-iptv/languages/cmn.m3u) |
 | Cnr | [`https://imluke954.github.io/phoenix-iptv/languages/cnr.m3u`](https://imluke954.github.io/phoenix-iptv/languages/cnr.m3u) |
+| Cnu | [`https://imluke954.github.io/phoenix-iptv/languages/cnu.m3u`](https://imluke954.github.io/phoenix-iptv/languages/cnu.m3u) |
 | Cym | [`https://imluke954.github.io/phoenix-iptv/languages/cym.m3u`](https://imluke954.github.io/phoenix-iptv/languages/cym.m3u) |
 | Czh | [`https://imluke954.github.io/phoenix-iptv/languages/czh.m3u`](https://imluke954.github.io/phoenix-iptv/languages/czh.m3u) |
 | Dan | [`https://imluke954.github.io/phoenix-iptv/languages/dan.m3u`](https://imluke954.github.io/phoenix-iptv/languages/dan.m3u) |
@@ -177,6 +178,7 @@ Access your playlists here: [https://imluke954.github.io/phoenix-iptv/](https://
 | Mri | [`https://imluke954.github.io/phoenix-iptv/languages/mri.m3u`](https://imluke954.github.io/phoenix-iptv/languages/mri.m3u) |
 | Msa | [`https://imluke954.github.io/phoenix-iptv/languages/msa.m3u`](https://imluke954.github.io/phoenix-iptv/languages/msa.m3u) |
 | Mya | [`https://imluke954.github.io/phoenix-iptv/languages/mya.m3u`](https://imluke954.github.io/phoenix-iptv/languages/mya.m3u) |
+| Mzb | [`https://imluke954.github.io/phoenix-iptv/languages/mzb.m3u`](https://imluke954.github.io/phoenix-iptv/languages/mzb.m3u) |
 | Nan | [`https://imluke954.github.io/phoenix-iptv/languages/nan.m3u`](https://imluke954.github.io/phoenix-iptv/languages/nan.m3u) |
 | Nbl | [`https://imluke954.github.io/phoenix-iptv/languages/nbl.m3u`](https://imluke954.github.io/phoenix-iptv/languages/nbl.m3u) |
 | Nep | [`https://imluke954.github.io/phoenix-iptv/languages/nep.m3u`](https://imluke954.github.io/phoenix-iptv/languages/nep.m3u) |
