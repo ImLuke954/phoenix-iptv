@@ -167,7 +167,6 @@ Access your playlists here: [https://imluke954.github.io/phoenix-iptv/](https://
 | Mai | [`https://imluke954.github.io/phoenix-iptv/languages/mai.m3u`](https://imluke954.github.io/phoenix-iptv/languages/mai.m3u) |
 | Mak | [`https://imluke954.github.io/phoenix-iptv/languages/mak.m3u`](https://imluke954.github.io/phoenix-iptv/languages/mak.m3u) |
 | Mal | [`https://imluke954.github.io/phoenix-iptv/languages/mal.m3u`](https://imluke954.github.io/phoenix-iptv/languages/mal.m3u) |
-| Man | [`https://imluke954.github.io/phoenix-iptv/languages/man.m3u`](https://imluke954.github.io/phoenix-iptv/languages/man.m3u) |
 | Mar | [`https://imluke954.github.io/phoenix-iptv/languages/mar.m3u`](https://imluke954.github.io/phoenix-iptv/languages/mar.m3u) |
 | Mkd | [`https://imluke954.github.io/phoenix-iptv/languages/mkd.m3u`](https://imluke954.github.io/phoenix-iptv/languages/mkd.m3u) |
 | Mkw | [`https://imluke954.github.io/phoenix-iptv/languages/mkw.m3u`](https://imluke954.github.io/phoenix-iptv/languages/mkw.m3u) |
