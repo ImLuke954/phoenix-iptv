@@ -204,6 +204,7 @@ Access your playlists here: [https://imluke954.github.io/phoenix-iptv/](https://
 | Sah | [`https://imluke954.github.io/phoenix-iptv/languages/sah.m3u`](https://imluke954.github.io/phoenix-iptv/languages/sah.m3u) |
 | Sat | [`https://imluke954.github.io/phoenix-iptv/languages/sat.m3u`](https://imluke954.github.io/phoenix-iptv/languages/sat.m3u) |
 | Sbd | [`https://imluke954.github.io/phoenix-iptv/languages/sbd.m3u`](https://imluke954.github.io/phoenix-iptv/languages/sbd.m3u) |
+| Scn | [`https://imluke954.github.io/phoenix-iptv/languages/scn.m3u`](https://imluke954.github.io/phoenix-iptv/languages/scn.m3u) |
 | Sfs | [`https://imluke954.github.io/phoenix-iptv/languages/sfs.m3u`](https://imluke954.github.io/phoenix-iptv/languages/sfs.m3u) |
 | Shi | [`https://imluke954.github.io/phoenix-iptv/languages/shi.m3u`](https://imluke954.github.io/phoenix-iptv/languages/shi.m3u) |
 | Shy | [`https://imluke954.github.io/phoenix-iptv/languages/shy.m3u`](https://imluke954.github.io/phoenix-iptv/languages/shy.m3u) |
