@@ -45,6 +45,7 @@ Access your playlists here: [https://imluke954.github.io/phoenix-iptv/](https://
 | Travel | [`https://imluke954.github.io/phoenix-iptv/categories/travel.m3u`](https://imluke954.github.io/phoenix-iptv/categories/travel.m3u) |
 | Undefined | [`https://imluke954.github.io/phoenix-iptv/categories/undefined.m3u`](https://imluke954.github.io/phoenix-iptv/categories/undefined.m3u) |
 | Weather | [`https://imluke954.github.io/phoenix-iptv/categories/weather.m3u`](https://imluke954.github.io/phoenix-iptv/categories/weather.m3u) |
+| Woman | [`https://imluke954.github.io/phoenix-iptv/categories/woman.m3u`](https://imluke954.github.io/phoenix-iptv/categories/woman.m3u) |
 | Xxx | [`https://imluke954.github.io/phoenix-iptv/categories/xxx.m3u`](https://imluke954.github.io/phoenix-iptv/categories/xxx.m3u) |
 
 ### Languages
@@ -60,6 +61,7 @@ Access your playlists here: [https://imluke954.github.io/phoenix-iptv/](https://
 | Alz | [`https://imluke954.github.io/phoenix-iptv/languages/alz.m3u`](https://imluke954.github.io/phoenix-iptv/languages/alz.m3u) |
 | Amh | [`https://imluke954.github.io/phoenix-iptv/languages/amh.m3u`](https://imluke954.github.io/phoenix-iptv/languages/amh.m3u) |
 | Ara | [`https://imluke954.github.io/phoenix-iptv/languages/ara.m3u`](https://imluke954.github.io/phoenix-iptv/languages/ara.m3u) |
+| Arb | [`https://imluke954.github.io/phoenix-iptv/languages/arb.m3u`](https://imluke954.github.io/phoenix-iptv/languages/arb.m3u) |
 | Arz | [`https://imluke954.github.io/phoenix-iptv/languages/arz.m3u`](https://imluke954.github.io/phoenix-iptv/languages/arz.m3u) |
 | Asm | [`https://imluke954.github.io/phoenix-iptv/languages/asm.m3u`](https://imluke954.github.io/phoenix-iptv/languages/asm.m3u) |
 | Asp | [`https://imluke954.github.io/phoenix-iptv/languages/asp.m3u`](https://imluke954.github.io/phoenix-iptv/languages/asp.m3u) |
