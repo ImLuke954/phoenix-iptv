@@ -83,6 +83,7 @@ Access your playlists here: [https://imluke954.github.io/phoenix-iptv/](https://
 | Ceb | [`https://imluke954.github.io/phoenix-iptv/languages/ceb.m3u`](https://imluke954.github.io/phoenix-iptv/languages/ceb.m3u) |
 | Ces | [`https://imluke954.github.io/phoenix-iptv/languages/ces.m3u`](https://imluke954.github.io/phoenix-iptv/languages/ces.m3u) |
 | Cgg | [`https://imluke954.github.io/phoenix-iptv/languages/cgg.m3u`](https://imluke954.github.io/phoenix-iptv/languages/cgg.m3u) |
+| Ckb | [`https://imluke954.github.io/phoenix-iptv/languages/ckb.m3u`](https://imluke954.github.io/phoenix-iptv/languages/ckb.m3u) |
 | Cmn | [`https://imluke954.github.io/phoenix-iptv/languages/cmn.m3u`](https://imluke954.github.io/phoenix-iptv/languages/cmn.m3u) |
 | Cnr | [`https://imluke954.github.io/phoenix-iptv/languages/cnr.m3u`](https://imluke954.github.io/phoenix-iptv/languages/cnr.m3u) |
 | Cnu | [`https://imluke954.github.io/phoenix-iptv/languages/cnu.m3u`](https://imluke954.github.io/phoenix-iptv/languages/cnu.m3u) |
